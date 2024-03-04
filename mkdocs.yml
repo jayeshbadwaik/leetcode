@@ -6,6 +6,7 @@ site_description: Leetcode Solutions by Jayesh Badwaik
 # Repository
 repo_name: jayeshbadwaik/leetcode
 repo_url: https://github.com/jayeshbadwaik/leetcode
+edit_uri: blob/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2024-now Jayesh Badwaik
@@ -96,7 +97,6 @@ plugins:
 # Hooks
 hooks:
   - material/overrides/hooks/shortcodes.py
-  - material/overrides/hooks/translations.py
 
 # Extensions
 markdown_extensions:
