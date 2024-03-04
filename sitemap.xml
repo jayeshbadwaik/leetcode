@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jayeshbadwaik.github.io/leetcode/</loc>
+         <lastmod>2024-03-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jayeshbadwaik.github.io/leetcode/blog/</loc>
+         <lastmod>2024-03-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jayeshbadwaik.github.io/leetcode/blog/2024/03/04/median-of-two-sorted-arrays/</loc>
+         <lastmod>2024-03-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jayeshbadwaik.github.io/leetcode/blog/archive/2024/</loc>
+         <lastmod>2024-03-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jayeshbadwaik.github.io/leetcode/blog/category/problem/</loc>
+         <lastmod>2024-03-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
