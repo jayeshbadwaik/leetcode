@@ -1,6 +1,2 @@
-# List of Problems
+[https://github.com/jayeshbadwaik/leetcode](https://github.com/jayeshbadwaik/leetcode)
 
-
-| Binary | Title | Difficulty |
-| --- | --- | --- |
-| four | Median of Two Sorted Arrays | Hard |
